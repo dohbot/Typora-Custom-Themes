@@ -1,6 +1,18 @@
+## issues
+
+- ~~Outline: White-washed~~ (fixed)
+- Mermaid: White-washed (in progress)
+- Tables: White-washed
+- Pdf/Print export: White-washed
+
+
+
+
+---
+
 # NoteTaker_Dark
 
-For hiarchy-based **note-taking** and **study guides** (ideal for students). Uses a **dark theme** and **Open Sans** for easy legibility. Also lists use **less indentation** and **custom line spacing** for better skimming. ![img](imgs/img.png)
+For hiarchy-based **note-taking** and **study guides** (ideal for students). Uses a **dark theme** and **Open Sans** for easy legibility. Also lists use **less indentation** and **custom line spacing** for better skimming. 
 
 ## My note-taking style
 
