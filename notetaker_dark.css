@@ -689,4 +689,50 @@ pre.md-fences,
 }
 
 
+.md-toc-item {
+    color: #A8C2DC;
+}
 
+#write div.md-toc-tooltip {
+    background-color: #363B40;
+}
+
+#outline-dropmenu .btn:hover,
+#outline-dropmenu .btn:focus,
+.md-toc .btn:hover,
+.md-toc .btn:focus {
+    color: white;
+}
+
+#outline-dropmenu {
+    background: rgba(50, 54, 59, 0.93);
+    border: 1px solid rgba(253, 253, 253, 0.15);
+}
+
+#outline-dropmenu .divider {
+    background-color: #b8bfc6;
+}
+
+.outline-expander:before {
+    top: 2px;
+}
+
+.pin-outline #outline-dropmenu {
+    background: inherit;
+    box-shadow: none;
+    border-right: 1px dashed;
+}
+
+.pin-outline #outline-dropmenu:hover .outline-title-wrapper {
+    border-left: 1px dashed;
+}
+
+.outline-title-wrapper .btn {
+    color: inherit;
+}
+
+.outline-item:hover {
+    border-color: #363B40;
+    background-color: #363B40;
+    color: white;
+}
